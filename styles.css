@@ -1,10 +1,6 @@
 body {
   background-image: url("/images/pattern-background-desktop.svg");
-  background-repeat: no-repeat;
-  background-size: contain;
   background-color: hsl(225, 100%, 94%);
-  align-items: center;
-  flex-direction: column;
   font-family: "Red Hat Display", sans-serif;
   text-align: center;
   border-radius: 25px;
@@ -62,9 +58,9 @@ p {
 }
 .flex-container {
   display: flex;
-  border: 1px solid black;
+  border-radius: 15px;
   flex-direction: row;
-  padding: 20px;
+  padding: 10px;
   background-color: hsl(225, 100%, 98%);
 }
 
@@ -73,23 +69,20 @@ p {
   align-content: center;
   justify-content: center;
   padding: 20px;
-  border: 2px solid red;
   align-self: center;
 }
 .flex-container-info {
   width: 50%;
   /* flex-grow: 100; <--- is not doing noting I need this bigger than 'change' container*/
   padding: 20px;
-  border: 2px solid blue;
 }
 .annual-plan {
-  border: 1px solid black;
+
   /* font-weight: bold; <---is not working?! */
 }
 
 .flex-container-icon {
   align-self: center;
-  border: 2px solid green;
 }
 .info-p {
   font-size: 15px;
