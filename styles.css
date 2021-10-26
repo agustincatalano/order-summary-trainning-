@@ -4,6 +4,7 @@ body {
   font-family: "Red Hat Display", sans-serif;
   text-align: center;
   border-radius: 25px;
+  width: 40%;
 }
 
 .container {
