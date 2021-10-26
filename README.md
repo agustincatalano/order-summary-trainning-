@@ -24,11 +24,7 @@ Users should be able to:
 ![](./orderSummary.png)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://order-summary-trainning.vercel.app/)
-
-## My process
+- Live Site URL: [Vercel app - Order Summary](https://order-summary-trainning.vercel.app/)
 
 ### Built with
 
